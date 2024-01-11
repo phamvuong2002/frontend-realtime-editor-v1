@@ -43,7 +43,7 @@ const Home = () => {
   return (
     <div className="homePageWrapper">
         <div className="formWrapper">
-            <img src="/logoRE.png" alt="infinity-logo"/>
+            <img src="/logoRe.png" alt="infinity-logo"/>
             <h4 className="PasteIDRoomLabel"> Paste invitation ROOM ID </h4>
             <div className="inputGroup">
                 <input 
